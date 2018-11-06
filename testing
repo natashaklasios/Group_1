@@ -1,0 +1,11 @@
+---
+title: "Test R Notebook"
+author: "Your Name"
+output: pdf
+---
+
+This is my R notebook - trying to figure out github lol.
+
+```{r}
+print('Hello Github')
+```
